@@ -1,0 +1,16 @@
+{
+    "full_name": "Darpalli Sai Charan Goud",
+    "primary_email": "sc5357854@gmail.com",
+    "skills": [
+        "Java",
+        "Python",
+        "Sql",
+        "Git",
+        "Machine Learning"
+    ],
+    "confidence": {
+        "name": 1.0,
+        "email": 1.0,
+        "phone": 1.0
+    }
+}
